@@ -1,4 +1,4 @@
-# Connectfour
+# Connectfour-python
 a fun game
 
 so this was my first game development with pygame
